@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bridgette</string>
+    <string name="titre_connexion">Nouvelle connexion</string>
+    <string name="sstitre_connexion">Entrez l\'adresse du serveur Bridg\'ette du club et vos identifiants de connexion:</string>
+    <string name="sstitre_login">Entrez vos identifiants de connexion:</string>
+    <string name="hint_connexion">adresse serveur bridgette nouveau club</string>
+    <string name="title_activity_last_tournoi">LastTournoiActivity</string>
+    <string name="title_activity_mitch61">Mitch61</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="url_incorrecte">url incorrecte:</string>
+    <string name="cnx_notdefined">non défini</string>
+</resources>
